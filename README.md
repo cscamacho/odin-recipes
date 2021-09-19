@@ -1,1 +1,1 @@
-This is my first project working through TOP. This is consist of a recipe. 
+This is my first project with The Odin Project. This consists of my own drink recipes created using HTML. 
