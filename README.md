@@ -1,1 +1,1 @@
-This is my first project with The Odin Project. This consists of my own drink recipes created using HTML. 
+This is my first project. This consists of my own drink recipes created using HTML. 
